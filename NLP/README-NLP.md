@@ -12,3 +12,9 @@
         - API : HuggingFace
         - data : https://raw.githubusercontent.com/lazyprogrammer/machine_learning_examples/master/hmm_class/robert_frost.txt
         - model : https://huggingface.co/gpt2
+
+#### 2 - Masked Language Modeling(MLM)
+        - Framework : PyTorch
+        - API : HuggingFace
+        - data : https://lazyprogrammer.me/course_files/nlp/bbc_text_cls.csv
+        - model : https://huggingface.co/bert
